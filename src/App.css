@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.redBtn {
+  background-color: red;
+}
+.greenBtn {
+  background-color: green;
+}
